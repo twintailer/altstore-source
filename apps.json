@@ -9,6 +9,7 @@
     {
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
+      "marketplaceID": "com.google.ios.youtube",
       "developerName": "",
       "subtitle": "",
       "localizedDescription": "YouTube (sideloaded)",
@@ -43,6 +44,7 @@
     {
       "name": "Stremio",
       "bundleIdentifier": "com.stremio.ios",
+      "marketplaceID": "com.stremio.ios",
       "developerName": "",
       "subtitle": "",
       "localizedDescription": "Stremio (sideloaded)",
