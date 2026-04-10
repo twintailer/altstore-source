@@ -3,9 +3,6 @@
   "identifier": "com.custom.altstore-source",
   "subtitle": "Custom sideloaded apps",
   "description": "Auto-generated AltStore source from local IPA files.",
-  "iconURL": "",
-  "headerURL": "",
-  "website": "",
   "tintColor": "4A90D9",
   "featuredApps": [],
   "apps": [
