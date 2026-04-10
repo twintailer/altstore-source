@@ -23,7 +23,7 @@
           "buildVersion": "21.14.4",
           "date": "2026-04-10T19:18:16+00:00",
           "localizedDescription": "Version 21.14.4 (Build 21.14.4)",
-          "downloadURL": "https://twintailer.github.io/altstore-source/21.14.4_YouTubePlus_5.2b4.ipa",
+          "downloadURL": "https://github.com/twintailer/altstore-source/releases/download/v1.0/21.14.4_YouTubePlus_5.2b4.ipa",
           "size": 126659293,
           "minOSVersion": "16.0"
         }
@@ -57,7 +57,7 @@
           "buildVersion": "7",
           "date": "2026-04-10T19:18:16+00:00",
           "localizedDescription": "Version 1.3.6 (Build 7)",
-          "downloadURL": "https://twintailer.github.io/altstore-source/stremio_iOS (1).ipa",
+          "downloadURL": "https://github.com/twintailer/altstore-source/releases/download/v1.0/stremio_iOS.1.ipa",
           "size": 79430168,
           "minOSVersion": "13.0"
         }
